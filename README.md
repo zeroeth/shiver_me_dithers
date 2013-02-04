@@ -1,3 +1,5 @@
+![example output](https://raw.github.com/zeroeth/shiver_me_dithers/master/example_hex.png)
+
 Shiver Me Dithers
 =================
 
