@@ -24,3 +24,9 @@ If you want to make a palette from an existing image run:
     ./color_juicer.sh <image_file>
 
 Code inspired by ImageMagick documentation on [quantization](http://www.imagemagick.org/Usage/quantize/#quantize) and started from code within.
+
+Requires
+--------
+
+* ImageMagick
+* Bash
